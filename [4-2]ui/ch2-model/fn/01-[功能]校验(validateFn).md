@@ -1,0 +1,1 @@
+# [功能]校验(validateFn)
