@@ -1,5 +1,7 @@
 # README
 
+[![Join the chat at https://gitter.im/luo0412/core](https://badges.gitter.im/luo0412/core.svg)](https://gitter.im/luo0412/core?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > 源码笔记(从器到术)
 
 - 生命有限, 源码无穷
