@@ -1,0 +1,1 @@
+# [功能]全屏(fullscreenFn)
